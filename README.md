@@ -90,6 +90,11 @@ python realtimesubtitles.py
 - Supports language switching via dropdown  
 
 ---
+🖼️ Screenshots
+  ![Screenshot 2025-06-29 134708](https://github.com/user-attachments/assets/769c7405-cc85-43f0-9ad8-03d9d96d7b7f)
+
+---
+
 
 ## 👨‍💻 Author
 
