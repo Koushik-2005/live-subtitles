@@ -33,7 +33,7 @@ Project Root/
 │   └── README.md
 ├── vosk-model-small-en-us-0.15/
 ├── vosk-model-small-hi-0.22/
-├── vosk-model-small-es-0.42/
+├── vosk-model-small-te-0.42/
 ```
 
 ---
